@@ -13,7 +13,6 @@
 
 ### Contact:
 - 📧 Email — anlearga1115@gmail.com
-- 🐦 Twitter — [twitter.com/hatkidwt](twitter.com/hatkidwt)
 
 
 
