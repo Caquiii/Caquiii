@@ -1,7 +1,7 @@
 ## Yo, Caqui here.
 > El flojo trabaja doble, incluso triple.
 
-### 17 year old undergrad student who barely has any free time
+### 18 year old undergrad student who barely has any free time
 - ⛏️ Working on a [custom Minecraft launcher](https://github.com/Caquiii/CHM-LCH).
  - 📗 Currently learning C# & Java (when I can).
 
